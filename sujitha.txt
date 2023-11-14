@@ -1,0 +1,5 @@
+#HOW TO READ CHAR FROM THE FILE
+#READ()=to read total data from the file
+#READ(n)=to read n char from the file
+#READLINE()=if i want to read line
+#READLINES()=to read all lines in the list

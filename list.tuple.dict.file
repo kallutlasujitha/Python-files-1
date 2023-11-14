@@ -1,0 +1,27 @@
+#LIST:
+We can represent a List by [ ]
+It allows various duplicate elements.
+It is mutable. It means that a user can make any changes to a list.
+ordered and changeble.
+Slicing can be done on list.
+List objects can not used as keys for dictionaries because keys should be hashable and immutable,
+Can contain duplicate elements.
+
+#TUPLE:
+We can represent a Tuple by ( )
+It allows various duplicate elements.
+It is immutable. It means that a user can’t make any changes to a tuple.
+ordered	and not changeable.
+Slicing can be done on tuple.
+Tuple objects can be used as keys for dictionaries because keys should be hashable and immutable.
+Can contain duplicate elements.Faster compared to list.
+
+#DICTIONARY:
+We can represent a Dictionary by { }
+The keys are not at all duplicated.
+It is mutable, but the keys are not at all duplicated.
+unordered and changeable indexed.
+slicing can't be done on dictionary.
+Can't contain duplicate keys, but can contain duplicate values.
+
+

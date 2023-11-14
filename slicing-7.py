@@ -1,5 +1,5 @@
-s = input("enter a string:")
-x = 0
-for i in s:
-    print("the char present at  the positive index is ",x,"is",i)
-    x+=1
+a = input("enter a string:")
+b = 0
+for i in a:
+    print("the char present at  the positive index is ",b,"is",i)
+    b+=1
